@@ -16,8 +16,8 @@ Ce GitHub rassemble des projets en actuariat, en gestion des risques et en finan
 
 | Projet | Description | Outils |
 |---|---|---|
+| [**Provisionnement IARD**](https://github.com/mohammedbahri1/reserving-iard) | Chain Ladder, Bornhuetter-Ferguson, modèle de Mack et bootstrap ODP (quantile à 99,5 %). Étude sur 1 000 portefeuilles de grands risques simulés : Bornhuetter-Ferguson divise l'erreur par quatre par rapport au Chain Ladder. | Python, NumPy, pandas, SciPy |
 | [**Option Pricing Lab**](https://github.com/mohammedbahri1/option-pricing-lab) | Pricing d'options : Black-Scholes-Merton, Greeks, volatilité implicite, arbre CRR (options américaines), Monte Carlo avec réduction de variance, pricer C++ parallélisé. Calcul vectorisé environ 1 600 fois plus rapide qu'une boucle Python. | Python, NumPy, SciPy, C++, OpenMP |
-| *Provisionnement IARD* (à venir) | Chain Ladder, Bornhuetter-Ferguson, Mack et bootstrap pour mesurer l'incertitude des réserves | Python |
 | *Solvabilité II & ORSA* (à venir) | SCR en formule standard, projection sur 5 ans, scénarios de stress, ratio de couverture | Python |
 
 ## Compétences
